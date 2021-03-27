@@ -184,8 +184,8 @@
 }
 
 .custom .stick.left {
-    top: 1;
-    left: 1;
+    top: 1px;
+    left: 1px;
 }
 
 .custom .stick.right {
