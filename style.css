@@ -3,6 +3,7 @@
     background: url(test.svg);
     height: 600px;
     width: 806px;
+    background-repeat:none;
 }
 
 .custom.disconnected {
