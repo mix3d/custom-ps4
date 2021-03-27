@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
-    background: url(base.svg);
+    background: url(test.svg);
     height: 598px;
     width: 806px;
 }
