@@ -1,12 +1,12 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
-    background: url(base.svgz);
+    background: url(base.svg);
     height: 598px;
     width: 806px;
 }
 
 .custom.disconnected {
-    background: url(disconnected.svgz);
+    background: url(disconnected.svg);
 }
 
 .custom.disconnected div {
@@ -23,7 +23,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggers.svgz);
+    background: url(triggers.svg);
     opacity: 0;
 }
 
@@ -39,7 +39,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumper.svgz) no-repeat;
+    background: url(bumper.svg) no-repeat;
     opacity: 0;
 }
 
@@ -75,7 +75,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(touchpad.svgz) no-repeat center;
+    background: url(touchpad.svg) no-repeat center;
 }
 
 .custom .meta {
@@ -87,7 +87,7 @@
 }
 
 .custom .meta.pressed {
-    background: url(meta.svgz) no-repeat center;
+    background: url(meta.svg) no-repeat center;
 }
 
 .custom .arrows {
@@ -99,7 +99,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(start.svgz);
+    background: url(start.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -130,7 +130,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(face.svgz);
+    background: url(face.svg);
 }
 
 .custom .button.pressed {
@@ -170,7 +170,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(sticks.svgz);
+    background: url(sticks.svg);
     height: 94px;
     width: 94px;
 }
@@ -202,7 +202,7 @@
 }
 
 .custom .face {
-    background: url(dpad.svgz);
+    background: url(dpad.svg);
     position: absolute;
 }
 
