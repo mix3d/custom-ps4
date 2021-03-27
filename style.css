@@ -70,7 +70,7 @@
     width: 262px;
     height: 151px;
     position: absolute;
-    left: 272px;
+    left: 273px;
     top: 122px;
 }
 
@@ -82,8 +82,8 @@
     width: 42px;
     height: 42px;
     position: absolute;
-    left: 382px;
-    bottom: 216px;
+    left: 383px;
+    bottom: 215px;
 }
 
 .custom .meta.pressed {
@@ -92,7 +92,7 @@
 
 .custom .arrows {
     position: absolute;
-    width: 352px;
+    width: 354px;
     height: 46px;
     top: 142px;
     left: 227px;
@@ -120,21 +120,21 @@
 
 .custom .abxy {
     position: absolute;
-    width: 170px;
-    height: 171px;
+    width: 172px;
+    height: 172px;
     top: 159px;
     left: 567px;
 }
 
 .custom .button {
     position: absolute;
-    width: 55px;
-    height: 55px;
+    width: 56px;
+    height: 56px;
     background: url(face.svg);
 }
 
 .custom .button.pressed {
-    background-position-y: 55px;
+    background-position-y: 56px;
     /* margin-top: 5px; */
 }
 
@@ -145,18 +145,18 @@
 }
 
 .custom .b {
-    background-position: -57px 0;
+    background-position: -56px 0;
     top: 58px;
     right: 0px;
 }
 
 .custom .x {
-    background-position: -113px 0;
+    background-position: -112px 0;
     top: 58px;
 }
 
 .custom .y {
-    background-position: 55px 0;
+    background-position: 56px 0;
     left: 58px;
 }
 
@@ -184,13 +184,13 @@
 }
 
 .custom .stick.left {
-    top: 0;
-    left: 0;
+    top: 1;
+    left: 1;
 }
 
 .custom .stick.right {
-    top: calc(100% - 105px);
-    left: calc(100% - 105px);
+    top: calc(100% - 104px);
+    left: calc(100% - 104px);
 }
 
 .custom .dpad {
