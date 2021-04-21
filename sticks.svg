@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="286px" height="94px" viewBox="-816 494 286 94" style="enable-background:new -816 494 286 94;" xml:space="preserve">
 <style type="text/css">
@@ -61,4 +61,26 @@
 		</g>
 	</g>
 </g>
+</svg> -->
+<svg width="286" height="94" viewBox="0 0 286 94" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<circle cx="47" cy="47" r="47" fill="#3A3A3A"/>
+	<circle cx="47" cy="47" r="44" fill="url(#paint0_linear)"/>
+	<circle cx="47" cy="47" r="27" fill="url(#paint1_linear)"/>
+	<path d="M143 92.5C117.9 92.5 97.5 72.1 97.5 47C97.5 21.9 117.9 1.5 143 1.5C168.1 1.5 188.5 21.9 188.5 47C188.5 72.1 168.1 92.5 143 92.5Z" fill="#3ED8D2"/>
+	<path d="M143 3C167.3 3 187 22.7 187 47C187 71.3 167.3 91 143 91C118.7 91 99 71.3 99 47C99 22.7 118.7 3 143 3ZM143 0C117 0 96 21 96 47C96 73 117 94 143 94C169 94 190 73 190 47C190 21 169 0 143 0Z" fill="#30D5CD"/>
+	<path d="M143 74.3C158.077 74.3 170.3 62.0774 170.3 47C170.3 31.9226 158.077 19.7 143 19.7C127.923 19.7 115.7 31.9226 115.7 47C115.7 62.0774 127.923 74.3 143 74.3Z" fill="#1FD2C6"/>
+	<path d="M239 92.5C213.9 92.5 193.5 72.1 193.5 47C193.5 21.9 213.9 1.5 239 1.5C264.1 1.5 284.5 21.9 284.5 47C284.5 72.1 264.1 92.5 239 92.5Z" fill="#3ED8D2"/>
+	<path d="M239 3C263.3 3 283 22.7 283 47C283 71.3 263.3 91 239 91C214.7 91 195 71.3 195 47C195 22.7 214.7 3 239 3ZM239 0C213 0 192 21 192 47C192 73 213 94 239 94C265 94 286 73 286 47C286 21 265 0 239 0Z" fill="#30D5CD"/>
+	<path d="M239 74.3C254.077 74.3 266.3 62.0774 266.3 47C266.3 31.9226 254.077 19.7 239 19.7C223.923 19.7 211.7 31.9226 211.7 47C211.7 62.0774 223.923 74.3 239 74.3Z" fill="#1FD2C6"/>
+	<defs>
+	<linearGradient id="paint0_linear" x1="47" y1="3" x2="47" y2="91" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#4B4A4A"/>
+	<stop offset="1" stop-color="#2E2D2D"/>
+	</linearGradient>
+	<linearGradient id="paint1_linear" x1="47" y1="20" x2="47" y2="74" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#3A3A3A"/>
+	<stop offset="1" stop-color="#545454"/>
+	</linearGradient>
+	</defs>
 </svg>
+	
